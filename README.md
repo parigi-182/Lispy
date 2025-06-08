@@ -23,8 +23,8 @@ Lispy is a minimal Lisp interpreter written in C, following the tutorial ["Build
 
 
 ## Screenshots
-![none](images/img01.png)
-![none](images/img02.png)
+![none](screenshots/img01.png)
+![none](screenshots/img02.png)
 
 
 ## How It Works
